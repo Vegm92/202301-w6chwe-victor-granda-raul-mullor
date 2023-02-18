@@ -1,5 +1,5 @@
-function App() {
-  return <div className="root">hello world!</div>;
-}
+const App = (): JSX.Element => {
+  return <></>;
+};
 
 export default App;
